@@ -1,0 +1,118 @@
+<CAPITULO>
+NOME
+cap1
+TEXTO
+(O Confronto Final!) Seja bem vindo ao mundo de One Piece, agora vc presenciara o fim da luta entre Luffy e Rob Lucci, está em suas mãos decidir quem vencera esse confronto. BOA SORTE!!!.
+       Após receber um golpe em cheio Luffy está no chão sangrado sem forças para se levantar, Ussop vendo Luffy caido grita para que ele não desista, Rob lucci sorrir e diz, Rob Lucci:-Depois que eu acabar com vc Mugiwara darei um fim em seus companheiros, começando com aquele narigudo, após ouvir isso luffy sente que ainda consegue dar um último golpe e tentar vencer essa batalha, Luffy levantara para dar o último golpe em Rob Lucci?,
+PERSONAGEM 
+Luffy
+VARIAÇÃO DE ENERGIA
+0
+
+<CAPITULO>
+NOME
+cap2
+TEXTO
+(A Última chance!) Luffy levanta em fúria, Ele ativa novamente o seu Gear Second e vai a todo vapor para cima do Rob Lucci. 
+Quase perdendo a conciencia a ponto de desmaiar, Luffy sabe que esse é seu último golpe, Qual o Golpe que Luffy deve utilizar para derrotar Rob Lucci? 
+PERSONAGEM       
+Luffy
+VARIAÇÃO DE ENERGIA
+-80
+
+<CAPITULO>
+NOME
+cap3
+TEXTO
+(O Poder da Determinação!) Luffy potencializa ao maximo o seu Gear Second e com suas ultimas energias dispara o seu golpe final, Luffy:-Gomu Gomu no Jet Gatling Gun, Nisso uma chuva de socos em alta velocidades vão em direção ao Rob Lucci, Rob Lucci Utiliza o seu Tekkai para deixar o seu corpo mais resisten que o ferro e aguentar o dano, Porém Luffy tomado pela determinação em salvar em protejer os seus companheiros, aumenta mais ainda a potência dos seus socos fazendo assim Rob Lucci não aguentar a pressão receber todos os danos e cair derrotado.
+    nisso luffy cai sem conseguir se molver, porém saiu vitorioso seus companheiros o resgatam e juntos vão rumo a sua jornadade se tornar o Rei dos Piratas. 
+FIM!!!
+Obrigado por ajudar Luffy em sua jornada!
+PERSONAGEM       
+Rob Lucci
+VARIAÇÃO DE ENERGIA    
+-100
+
+<CAPITULO>
+NOME
+cap4
+TEXTO
+(Tekkai!) Luffy estica e torce sua mão para traz para utilizar seu golpe, Luffy: - Gomu Gomu no Jet Rifle, nisso um soco muito veloz vai com tudo em dirção ao Rob Lucci, Porém Rob Lucci utilizou seu Tekkai seu corpo ficou mais resistente que o ferro, fazendo assim o golpe de Luffy não surtir efeito.
+Luffy cai exausto sem conseguir se molver, Lucci pega Luffy e o joga no Navío da Marinha.
+Ápos isso Lucci derrota todos os companheiros de Luffy e os prende.
+Trazendo assim a vitoria para a Marinha. FIM!!!     
+PERSONAGEM       
+Luffy
+VARIAÇÃO DE ENERGIA    
+-100
+
+<CAPITULO>
+NOME
+cap5
+TEXTO
+( O fim de uma Jornada!) Luffy não levanta, Rob Lucci executa Luffy na frente de seu companheiros, vai atrás do Usopp e o elimina, acaba com a maior parte da tripulação do Luffy e os que consegue fugir de Enis Lobby desistem de sua jornada. FIM!!!                        
+PERSONAGEM       
+Luffy
+VARIAÇÃO DE ENERGIA    
+-100
+
+<CAPITULO>
+NOME
+cap6
+TEXTO
+(O erro Fatal!)   Luffy tenta usar seu Gear Third, porém não consegue inflar os seus ossos pela exastão, Nisso Rob Lucci agarra Luffy com sua calda e ultiliza seu golpe mais forte, Rob Lucci:-Sai Dai Rin:Rokuogan (Anel Máximo: Arma dos Seis Reis).
+Acabando de vez com Luffy. Fim!!!
+Luffy
+VARIAÇÃO DE ENERGIA    
+-100
+
+<ESCOLHA>
+CAPITULO ORIGEM
+cap1
+TEXTO DIGITADO
+1
+TEXTO MOSTRADO
+sim
+CAPITULO DESTINO
+cap2
+
+
+<ESCOLHA>
+CAPITULO ORIGEM
+cap1
+TEXTO DIGITADO
+2
+TEXTO MOSTRADO
+não
+CAPITULO DESTINO
+cap5
+
+<ESCOLHA>
+CAPITULO ORIGEM
+cap2
+TEXTO DIGITADO
+1
+TEXTO MOSTRADO
+jet gatling
+CAPITULO DESTINO
+cap3
+
+<ESCOLHA>
+CAPITULO ORIGEM
+cap2
+TEXTO DIGITADO
+2
+TEXTO MOSTRADO
+jet rifle
+CAPITULO DESTINO
+cap4
+
+<ESCOLHA>
+CAPITULO ORIGEM
+cap2
+TEXTO DIGITADO
+3
+TEXTO MOSTRADO
+gear third
+CAPITULO DESTINO
+cap6
